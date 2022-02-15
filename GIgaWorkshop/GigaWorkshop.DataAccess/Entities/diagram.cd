@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GigaWorkshop.DataAccess.Entities.Category">
+    <Position X="2.5" Y="2" Width="1.75" />
+    <AssociationLine Name="ParentCategory" Type="GigaWorkshop.DataAccess.Entities.Category" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="3.903" />
+        <Point X="1" Y="3.903" />
+        <Point X="1" Y="2.423" />
+        <Point X="2.5" Y="2.423" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.331" Y="-1.411" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAQAAAAAEIAAAAAAAAAgAAQ=</HashCode>
+      <FileName>Entities\Category.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ParentCategory" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GigaWorkshop.DataAccess.Entities.Product">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAgAAEAAAABQAgAAAABAAAAAAEAAACAA=</HashCode>
+      <FileName>Entities\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaWorkshop.DataAccess.Entities.Warehouse">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaWorkshop.DataAccess.Entities.Stock">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAABAABAAAAAAAAAAAAAAAAAAAACAAAgAAAAAA=</HashCode>
+      <FileName>Entities\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaWorkshop.DataAccess.Entities.Image">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAgAIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
