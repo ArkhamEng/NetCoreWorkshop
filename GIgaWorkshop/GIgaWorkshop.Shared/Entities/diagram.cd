@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="GigaWorkshop.DataAccess.Entities.Category">
+  <Class Name="GigaWorkshop.Shared.Entities.Category">
     <Position X="2.5" Y="2" Width="1.75" />
-    <AssociationLine Name="ParentCategory" Type="GigaWorkshop.DataAccess.Entities.Category" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+    <AssociationLine Name="ParentCategory" Type="GigaWorkshop.Shared.Entities.Category" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
       <Path>
         <Point X="2.5" Y="3.903" />
         <Point X="1" Y="3.903" />
@@ -21,28 +21,28 @@
       <Property Name="ParentCategory" />
     </ShowAsAssociation>
   </Class>
-  <Class Name="GigaWorkshop.DataAccess.Entities.Product">
+  <Class Name="GigaWorkshop.Shared.Entities.Product">
     <Position X="5.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAQAgAgAAEAAAABQAgAAAABAAAAAAEAAACAA=</HashCode>
       <FileName>Entities\Product.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GigaWorkshop.DataAccess.Entities.Warehouse">
+  <Class Name="GigaWorkshop.Shared.Entities.Warehouse">
     <Position X="10.25" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAEAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\Warehouse.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GigaWorkshop.DataAccess.Entities.Stock">
+  <Class Name="GigaWorkshop.Shared.Entities.Stock">
     <Position X="8" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>EAACAAAABAABAAAAAAAAAAAAAAAAAAAACAAAgAAAAAA=</HashCode>
       <FileName>Entities\Stock.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="GigaWorkshop.DataAccess.Entities.Image">
+  <Class Name="GigaWorkshop.Shared.Entities.Image">
     <Position X="8" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>EAACAAAAAAAAgAIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GigaWorkshop.DataAccess.Entities
+namespace GigaWorkshop.Shared.Entities
 {
     public class Warehouse
     {

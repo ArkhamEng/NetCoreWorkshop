@@ -1,4 +1,4 @@
-﻿using GigaWorkshop.DataAccess.Entities;
+﻿using GigaWorkshop.Shared.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace GigaWorkshop.DataAccess

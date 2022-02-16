@@ -1,4 +1,4 @@
-﻿namespace GigaWorkshop.DataAccess.Entities
+﻿namespace GigaWorkshop.Shared.Entities
 {
     public class Image
     {
